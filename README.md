@@ -5,7 +5,7 @@
 <h1 align="center">Hello &nbsp;<a href="https://avipatilweb.ml/"><img src="https://raw.githubusercontent.com/avipatilpro/avipatilpro/master/Hi.gif" width="48"></a> , I'm Omkar Gaikwad</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9400D3&center=true&vCenter=true&width=435&lines=Computer+Engineer;Full-Stack+Developer;Cloud+Engineer;AI+Engineer;YouTuber;Streamer;Editor;" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9400D3&center=true&vCenter=true&width=435&lines=AI&ML+Engineer;Cloud+Engineer;AI+Engineer;Editor;" alt="Typing SVG" />
 
 </p>
 
@@ -17,18 +17,18 @@
 <table>
   <tr>
     <td align="center">
-      <a href="https://www.youtube.com/@Studybrainzofficial" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.youtube.com%2F%40Studybrainzofficial&subtitle=@Studybrainzofficial&size=square" alt="Studybrainz Official">
+      <a href="https://www.youtube.com/@UCvWqwjSMRvzzSnX8mjB4Smw" target="_blank">
+        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.youtube.com%2F%40Studybrainzofficial&subtitle=UCvWqwjSMRvzzSnX8mjB4Smw&size=square" alt="Studybrainz Official">
       </a>
     </td>
     <td align="center">
       <a href="https://www.instagram.com/mr_.rafik/" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.instagram.com%2Fmr_.rafik%2F&subtitle=@mr_.rafik&size=square" alt="RAFIK SHAH">
+        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.instagram.com%2Fmr_.rafik%2F&subtitle=@mr_.rafik&size=square" alt="Omkar Gaikwad">
       </a>
     </td>
     <td align="center">
       <a href="https://www.linkedin.com/in/rafik-shah-179875209/" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Frafik-shah-179875209%2F&subtitle=@Rafik+Shah&size=square" alt="RAFIK SHAH">
+        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Frafik-shah-179875209%2F&subtitle=@Omkar+Gaikad&size=square" alt="Omkar Gaikwad">
       </a>
     </td>
    <td align="center">
