@@ -15,19 +15,11 @@
 
 <div align="center">
 <table>
-  <tr>
-    <td align="center">
-      <a href="https://www.youtube.com/@UCvWqwjSMRvzzSnX8mjB4Smw" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.youtube.com%2F%40Studybrainzofficial&subtitle=UCvWqwjSMRvzzSnX8mjB4Smw&size=square" alt="Studybrainz Official">
+ 
       </a>
     </td>
     <td align="center">
-      <a href="https://www.instagram.com/mr_.rafik/" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.instagram.com%2Fmr_.rafik%2F&subtitle=@mr_.rafik&size=square" alt="Omkar Gaikwad">
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.linkedin.com/in/rafik-shah-179875209/" target="_blank">
+      <a href="https://www.linkedin.com/in/omkar-gaikwad-7a421624a/" target="_blank">
         <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Frafik-shah-179875209%2F&subtitle=@Omkar+Gaikad&size=square" alt="Omkar Gaikwad">
       </a>
     </td>
